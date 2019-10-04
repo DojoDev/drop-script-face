@@ -1,4 +1,4 @@
-# Drop Monstro Script Events Pixel FAcebook
+# Drop Monstro Script Pixel Facebook Event Purchase
 Script para o evento de Purchase No Facebook Pixel
 
 #COPIE SOMENTE O CÒDIGO APÓS A LINHA
